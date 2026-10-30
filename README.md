@@ -3,7 +3,7 @@
 
 **CCT 360 · Interactive Discovery group project (The Curious Case)**
 **Group:** Fatima Bukhari · Lama Hamdan · Dima Hamdan
-**Live website:** [https://YOUR-USERNAME.github.io/REPO-NAME/]
+**Live website:** https://fatimasyedabuk-hub.github.io/the-museum-heist/
 
 ## Story and content
 Story, clue wording, dialogue, unlock rules and endings follow the team's Story Bible (written by Lama Hamdan).
